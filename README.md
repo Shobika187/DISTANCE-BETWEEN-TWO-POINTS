@@ -3,12 +3,16 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: import numpy as np
-### Step 2: Get the import matrix
+### Step 1: 
+import numpy as np
+### Step 2:
+ Get the import matrix
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.jpg)
-### Step 4: make two variables
-### Step 5: print the result
+### Step 4:
+ make two variables
+### Step 5: 
+print the result
 ### PROGRAM:
 ~~~
   import numpy as np
@@ -22,4 +26,4 @@ print("{:.2f}".format(distance))
 ![GitHub Logo](./distance.png)
 
 ### RESULT:
-The program is completed
+The distance between two points are successfully solved using python program
